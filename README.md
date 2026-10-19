@@ -75,6 +75,9 @@
    - Paste Column A between the first set of triple quotes `"""` and Column B between the second set of triple quotes `"""`.
    - Upload the file to an online compiler like **OnlineGDB** (you can disconnect your Wi-Fi after loading the page for maximum privacy) and click **Run**.
 
+4. **Check the results**:
+   - At the bottom of the output window, you will see a clean, bulleted list of the exact usernames that unfollowed you or do not follow you back.
+
 How to request the correct files on Instagram
 #### 🇬🇧 English Procedure (Avoiding photos and videos)
 
@@ -100,5 +103,3 @@ How to request the correct files on Instagram
 * **Isolate Contacts** ➔ Select exclusively the **Followers and following** checkbox. Tap Next.
 * **File Options** ➔ Choose **Download to device**, verify the format is **HTML**, and the date range is set to **All time**.
 * **Submit** ➔ Tap **Submit request**.
-4. **Check the results**:
-   - At the bottom of the output window, you will see a clean, bulleted list of the exact usernames that unfollowed you or do not follow you back.
