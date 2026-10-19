@@ -78,7 +78,10 @@
 4. **Check the results**:
    - At the bottom of the output window, you will see a clean, bulleted list of the exact usernames that unfollowed you or do not follow you back.
 
-How to request the correct files on Instagram
+### 📊 How to request the correct files on Instagram
+
+---
+
 #### 🇬🇧 English Procedure (Avoiding photos and videos)
 
 ##### 🖥️ Via PC (Web Browser - Recommended)
